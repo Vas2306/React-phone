@@ -1,4 +1,5 @@
 import PropTypes from 'prop-types';
+import "./ProductListItem.css"
 export const ProductListItem = ({
   id,
   url,
